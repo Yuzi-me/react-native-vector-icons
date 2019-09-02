@@ -24,5 +24,15 @@
   "ui": 59670,
   "uis": 59671,
   "device-converter": 59672,
-  "device-fertilizer": 59673
+  "device-fertilizer": 59673,
+  "air-moisture": 59674,
+  "air-temper": 59675,
+  "co2": 59676,
+  "illumination": 59677,
+  "rfid": 59678,
+  "soil-moisture": 59679,
+  "soil-temper": 59680,
+  "tension": 59681,
+  "wind-direction": 59682,
+  "wind-speed": 59683
 }
